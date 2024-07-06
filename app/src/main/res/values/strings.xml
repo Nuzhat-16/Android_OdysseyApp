@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"
+    <string name="back_arrow" />
+    <string name="profile" />
+    <string name="history" />
+    <string name="home" />
+    <string name="product" />
+    <string name="settings" />=back_arrow
+
+    </string>
+    <string name="back_arrow" />
+</resources>
